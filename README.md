@@ -1,4 +1,8 @@
-## Oi eu sou o Victor Vinicius Tavares
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=desendaniel&label=Profile%20views&color=0e75b6&style=flat" alt="desendaniel" /> </p>
+<h1 align="center">Hi 👋, I'm Victor Tavares</h1>
+<h3 align="center">Front-end dev.</h3>
+
+- 🔭 I’m currently working on [Adapcon](https://github.com/adapcon-team/)
 <div align="left">
   <a href="https://github.com/planivic1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=planivic1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
