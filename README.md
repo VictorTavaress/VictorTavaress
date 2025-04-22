@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Brazil with a strong background in UX/UI Design</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=planivic1&label=Profile%20views&color=0e75b6&style=flat" alt="planivic1" />
+  <img src="https://komarev.com/ghpvc/?username=VictorTavaress&label=Profile%20views&color=0e75b6&style=flat" alt="VictorTavaress" />
 </p>
 
 ---
