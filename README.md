@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Tavares</h1>
-<h3 align="center">A passionate Frontend Developer from Brazil with a strong background in UX/UI Design</h3>
+<h3 align="center">A passionate Full Stack Developer from Brazil with a strong background in UX/UI Design</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VictorTavaress&label=Profile%20views&color=0e75b6&style=flat" alt="VictorTavaress" />
